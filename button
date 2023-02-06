@@ -244,11 +244,11 @@
 
 <body>
 
-  <button class="btn large my-color rounded threeD" type="button" onclick="navigate()"> <i class="fa-regular fa-star"></i> My Button</button>
+  <button class="btn small green rounded threeD" type="button" onclick="navigate()">  Generate Invoices</button>
   
   <script>
     function navigate() {
-      window.open("https://example.com", '_blank').focus();
+      window.open("https://eu1.make.com/291347/scenarios/1032687/edit", '_blank').focus();
     }
   </script>
 
